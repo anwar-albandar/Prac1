@@ -17,6 +17,7 @@ public class App
         System.out.print("Enter a number: ");
         int number = input.nextInt();
         int guesses = 5;
+        //I Changed number 1 I put 5
 
         while(number != randomNum){
             if(number<randomNum){
